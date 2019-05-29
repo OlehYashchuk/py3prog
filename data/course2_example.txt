@@ -1,0 +1,2 @@
+This is the example txt file.
+It is made for training purpose.
